@@ -1,0 +1,8 @@
+# plugin manager state
+lazy-lock.json   # optional: keep this if you want reproducible plugin versions
+plugin/packer_compiled.lua
+spell/*.add
+*.log
+.nvim_bak*/
+*.zip
+*.bak
